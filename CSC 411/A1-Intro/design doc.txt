@@ -1,0 +1,26 @@
+Data Structures
+	
+	For this assignment we would mainly be focusing on using lists, tables
+	and dynamic arrays
+
+Void*
+	
+	The void pointers are going to need to be changed so that they are no 
+	longer void and are now characters, char. This way, when we are going 
+	through the list of the names and finger prints, we can be able to 
+	return where each one would belong much easier
+
+Invariant
+
+	The invariant in this assignment is going to be all of the name and
+	finger prints that we had already checked. Similar to the example 
+	given about how the invariant of insertion sort would be the numbers
+	to the left of the pointer, which have already been checked, the names
+	and their respective finger prints have already been checked as well.
+	
+Answer 
+
+	To solve this assignment, I believe that we are going to need to go 
+	through a list and then at each instance we should then separate each	
+	input into a different table that will then correspond to their respective
+	finger prints

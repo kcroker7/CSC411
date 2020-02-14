@@ -1,0 +1,11 @@
+TECHINIQUE
+
+We were not able to use our technique for this project because we could only work on it 
+together a few times. However, our technique is to have one person write code for 10-15
+minutes while the other is checking for any mistakes as the person types. It is much 
+easier to catch mistakes when you are simply reading rather than thinking of what to 
+type next for your code to work and compile. After this time is up, we are going to 
+switch positions so we don't just have one person typing the code the entire time. It 
+is a very useful way to understand what the other person's train of thought is on this
+assignment and future assignments as well. We are hoping that we will be able to 
+implement this technique on other assignments when we are able to have time to meet up.
